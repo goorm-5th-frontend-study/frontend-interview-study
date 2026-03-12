@@ -29,5 +29,5 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/18">TCP와 UDP는 무엇인지 짧게 설명해주시고 차이점을 말해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/19">Token은 무엇이며 JWT Token에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/20">CORS란 무엇이며 왜 필요한가요?</a>
-- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/21">검색창에 www.google.com을 작성할 시 일어나는 일에 대해 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/21">검색창에 `www.google.com`을 작성할 시 일어나는 일에 대해 설명해주세요.</a>
 
