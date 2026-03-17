@@ -10,6 +10,8 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/15">왜 React에서 상태의 불변성을 유지해야 하나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/22">SPA란 무엇인가요? 어떤 장단점이 있나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/23">React에서 리렌더링이 발생하는 조건은 무엇인가요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/30">React Query에 대해 설명해 주세요. </a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/31">ContextAPI란 무엇이며 어떨 때 사용하는지 설명해주세요.</a>
 
 ## 📄JavaScript
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/4">Callback 함수에 대해 설명해주세요.</a>
@@ -20,6 +22,16 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/16">클로저란 무엇인가요? 클로저를 왜 사용할까요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/24">프로토타입에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/25">동기와 비동기에 대해 설명해주세요.</a>
+
+## 🔠 TypeScript
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/28">타입스크립트를 사용하는 이유는 무엇인가요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/29">Type과 Interface의 차이는 무엇인가요?</a>
+
+
+## ➡️ Next.js
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/26">SSR과 SSG의 차이점은 무엇이며, 각각 어떤 상황에서 사용하는 것이 좋을까요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/27">Server Component와 Client Component의 차이는 무엇인가요?</a>
+
 
 ## 🌐 Network
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/6">HTTP와 HTTPS의 차이점은 무엇인가요?</a>
