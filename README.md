@@ -12,6 +12,8 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/23">React에서 리렌더링이 발생하는 조건은 무엇인가요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/30">React Query에 대해 설명해 주세요. </a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/31">ContextAPI란 무엇이며 어떨 때 사용하는지 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/34">useState와 useRef의 차이점을 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/35">useEffect 훅에 대해 설명해주세요.</a>
 
 ## 📄JavaScript
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/4">Callback 함수에 대해 설명해주세요.</a>
@@ -26,11 +28,15 @@ Frontend 기술 면접 대비 스터디 저장소
 ## 🔠 TypeScript
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/28">타입스크립트를 사용하는 이유는 무엇인가요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/29">Type과 Interface의 차이는 무엇인가요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/32">any 타입과 unknown 타입의 차이는 무엇인가요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/33">제네릭이 무엇이며, 왜 사용하는지 설명해주세요.</a>
 
 
 ## ➡️ Next.js
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/26">SSR과 SSG의 차이점은 무엇이며, 각각 어떤 상황에서 사용하는 것이 좋을까요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/27">Server Component와 Client Component의 차이는 무엇인가요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/36">Next.js에서 라우팅을 구현하는 방식은 React.js와 어떻게 다른가요</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/37">TTV, TTI, hydration의 관계를 설명해주세요.</a>
 
 
 ## 🌐 Network
