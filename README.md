@@ -14,6 +14,8 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/31">ContextAPI란 무엇이며 어떨 때 사용하는지 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/34">useState와 useRef의 차이점을 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/35">useEffect 훅에 대해 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/38">useLayoutEffect 훅에 대해 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/39">CSR이 무엇인가요? SSR과 어떤 차이가 있나요?</a>
 
 ## 📄JavaScript
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/4">Callback 함수에 대해 설명해주세요.</a>
@@ -30,6 +32,8 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/29">Type과 Interface의 차이는 무엇인가요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/32">any 타입과 unknown 타입의 차이는 무엇인가요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/33">제네릭이 무엇이며, 왜 사용하는지 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/40">Typescript의 Enum type을 reverse mapping과 함께 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/41">Typescript의 Utillity Type에 대해 설명해주시고 아는 것 3가지만 간단하게 말해주세요.</a>
 
 
 ## ➡️ Next.js
@@ -37,6 +41,8 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/27">Server Component와 Client Component의 차이는 무엇인가요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/36">Next.js에서 라우팅을 구현하는 방식은 React.js와 어떻게 다른가요</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/37">TTV, TTI, hydration의 관계를 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/42">loading.tsx, error.tsx, not-found.tsx는 각각 어떤 역할을 하나요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/43">Route Handler는 무엇인가요?</a>
 
 
 ## 🌐 Network
