@@ -31,7 +31,7 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/16">클로저란 무엇인가요? 클로저를 왜 사용할까요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/24">프로토타입에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/25">동기와 비동기에 대해 설명해주세요.</a>
-- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/46">This에 대해 설명해 주세요.?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/46">This에 대해 설명해 주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/47">이벤트 버블링과 이벤트 캡처링에 대해 설명해 주세요.</a>
 
 
