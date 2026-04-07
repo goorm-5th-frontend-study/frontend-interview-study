@@ -17,6 +17,11 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/38">useLayoutEffect 훅에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/39">CSR이 무엇인가요? SSR과 어떤 차이가 있나요?</a>
 
+## 📺 Browser
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/44">브라우저가 화면을 그리는 과정에 대해 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/45">reflow와 repaint는 언제 발생하고, 어떤 차이가 있나요?</a>
+
+
 ## 📄JavaScript
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/4">Callback 함수에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/5">Callback과 Promise는 어떤 차이점이 있나요?</a>
@@ -26,6 +31,9 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/16">클로저란 무엇인가요? 클로저를 왜 사용할까요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/24">프로토타입에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/25">동기와 비동기에 대해 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/46">This에 대해 설명해 주세요.?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/47">이벤트 버블링과 이벤트 캡처링에 대해 설명해 주세요.</a>
+
 
 ## 🔠 TypeScript
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/28">타입스크립트를 사용하는 이유는 무엇인가요?</a>
