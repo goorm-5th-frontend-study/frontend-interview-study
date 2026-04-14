@@ -16,10 +16,17 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/35">useEffect 훅에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/38">useLayoutEffect 훅에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/39">CSR이 무엇인가요? SSR과 어떤 차이가 있나요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/50">React에서 setState는 어떻게 동작하나요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/51">Suspense에 대해서 설명해주세요.</a>
+
 
 ## 📺 Browser
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/44">브라우저가 화면을 그리는 과정에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/45">reflow와 repaint는 언제 발생하고, 어떤 차이가 있나요?</a>
+
+## 🖼️ HTML/CSS
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/48">DOCTYPE이란 무엇인지 설명해 주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/49">block, inline-block, inline에 대해 구분해 주세요.</a>
 
 
 ## 📄JavaScript
