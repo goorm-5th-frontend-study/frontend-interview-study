@@ -19,14 +19,16 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/50">React에서 setState는 어떻게 동작하나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/51">Suspense에 대해서 설명해주세요.</a>
 
-
 ## 📺 Browser
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/44">브라우저가 화면을 그리는 과정에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/45">reflow와 repaint는 언제 발생하고, 어떤 차이가 있나요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/55">캐시란 무엇이고 언제 쓰는지 설명해주세요.</a>
 
 ## 🖼️ HTML/CSS
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/48">DOCTYPE이란 무엇인지 설명해 주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/52">시맨틱 태그란 무엇이고, 왜 사용하나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/49">block, inline-block, inline에 대해 구분해 주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/53">CSS 선택자 우선순위에 대해 설명해주세요.</a>
 
 
 ## 📄JavaScript
@@ -69,4 +71,6 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/19">Token은 무엇이며 JWT Token에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/20">CORS란 무엇이며 왜 필요한가요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/21">검색창에 `www.google.com`을 작성할 시 일어나는 일에 대해 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/54">OAuth에 대해 설명해주세요.</a>
+
 
