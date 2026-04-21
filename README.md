@@ -18,6 +18,9 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/39">CSR이 무엇인가요? SSR과 어떤 차이가 있나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/50">React에서 setState는 어떻게 동작하나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/51">Suspense에 대해서 설명해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/56">React의 성능을 개선하는 방법을 말해주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/57">제어 컴포넌트와 비제어 컴포넌트에 비교해서 설명해주세요.</a>
+
 
 ## 📺 Browser
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/44">브라우저가 화면을 그리는 과정에 대해 설명해주세요.</a>
@@ -36,12 +39,14 @@ Frontend 기술 면접 대비 스터디 저장소
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/5">Callback과 Promise는 어떤 차이점이 있나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/8">호이스팅에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/9">Promise란 무엇이며 어떻게 사용하나요?</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/59">async/await은 Promise와 어떤 차이가 있나요? </a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/16">스코프란 무엇인가요? 스코프에는 어떤 종류가 있나요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/16">클로저란 무엇인가요? 클로저를 왜 사용할까요?</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/24">프로토타입에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/25">동기와 비동기에 대해 설명해주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/46">This에 대해 설명해 주세요.</a>
 - <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/47">이벤트 버블링과 이벤트 캡처링에 대해 설명해 주세요.</a>
+- <a href="https://github.com/goorm-5th-frontend-study/frontend-interview-study/discussions/58">이벤트 위임에 대해 설명해주세요.</a>
 
 
 ## 🔠 TypeScript
